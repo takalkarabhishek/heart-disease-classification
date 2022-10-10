@@ -56,9 +56,9 @@ If we achieve 95% accuracy in predicting whether a person has Heart Disease or n
 9. exang: exercise induced angina (1 = yes; 0 = no)
 10. oldpeak = ST depression induced by exercise relative to rest
 11. slope: the slope of the peak exercise ST segment
-   * Value 1: upsloping
-   * Value 2: flat
-   * Value 3: downsloping
+    * Value 1: upsloping
+    * Value 2: flat
+    * Value 3: downsloping
 12. ca: number of major vessels (0-3) colored by flourosopy
 13. thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 14. target: 0-Not Heart Disease, 1-Heart Disease
